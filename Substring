@@ -1,0 +1,5 @@
+n = input()
+d=0
+n=list(dict.fromkeys(n))
+len=len(n)
+print(len)
